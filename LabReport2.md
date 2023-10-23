@@ -37,7 +37,7 @@ class StringServer {
 ```
 
 Screenshot 1:
-![[screenshot1.png]]
+![screenshot 1](screenshot1.png)
 - Which methods in your code are called?
 	- The `handleRequest` method is called.
 - What are the relevant arguments to those methods, and the values of any relevant fields of the class?
@@ -46,7 +46,7 @@ Screenshot 1:
 	- The `handleRequest` method parses the url for `/add-message` and adds the query to the ArrayList. In this example, the string `"How are you"` was added to the `ArrayList<String> strings`.
 
 Screenshot 2:
-![[screenshot2.png]]
+![screenshot 2](screenshot2.png)
 - Which methods in your code are called?
 	- The `handleRequest` method is called.
 - What are the relevant arguments to those methods, and the values of any relevant fields of the class?
@@ -56,9 +56,9 @@ Screenshot 2:
 
 ### Part 2
 
-![[screenshot3.png]]
-![[screenshot4.png]]
-![[screenshot5.png]]
+![screenshot 3](screenshot3.png)
+![screenshot 4](screenshot4.png)
+![screenshot 5](screenshot5.png)
 
 ### Part 3
 
