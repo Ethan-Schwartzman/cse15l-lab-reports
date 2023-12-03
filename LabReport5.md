@@ -74,7 +74,9 @@ javac -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" *.java
 java -cp ".;lib/hamcrest-core-1.3.jar;lib/junit-4.13.2.jar" org.junit.runner.JUnitCore SortTests
 ```
 - Sorter.java
+
 ```java
+
 import java.io.File;
 import java.util.Scanner;
 import java.util.ArrayList;
@@ -125,8 +127,9 @@ public class Sorter {
     }
 }
 ```
-```
+
 - SortTests.java
+
 ```java
 import static org.junit.Assert.*;
 import org.junit.*;
